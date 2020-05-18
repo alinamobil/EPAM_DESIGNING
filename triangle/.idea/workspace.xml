@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86dd1796-4e21-4a8b-8822-60f86035f86b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aijJg7rf2wxeGdHUUJLrquhO2S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestNG" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestTriangleValidator" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="triangle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testValidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testValidator" />
+      <option name="MAIN_CLASS_NAME" value="testValidator.TestTriangleValidator" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestTriangleValidator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86dd1796-4e21-4a8b-8822-60f86035f86b" name="Default Changelist" comment="" />
+      <created>1587225237531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587225237531</updated>
+      <workItem from="1587225240885" duration="2660000" />
+      <workItem from="1587228986248" duration="1317000" />
+      <workItem from="1587230602173" duration="6554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="969" y="185" key="#Project_Structure" timestamp="1587225796771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="969" y="185" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587225796771" />
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587230831685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587230831685" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587226527846" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1587229272782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587229272782" />
+    <state x="444" y="171" key="FileChooserDialogImpl" timestamp="1587234533475">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="444" y="171" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587234533475" />
+    <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587225291152" />
+    <state width="1237" height="125" key="GridCell.Tab.0.bottom" timestamp="1587240309076">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587240309076" />
+    <state width="1237" height="125" key="GridCell.Tab.0.center" timestamp="1587240309075">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587240309075" />
+    <state width="1237" height="125" key="GridCell.Tab.0.left" timestamp="1587240309075">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587240309075" />
+    <state width="1237" height="125" key="GridCell.Tab.0.right" timestamp="1587240309076">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587240309076" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1587230958834">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587230958834" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587225294861" />
+    <state x="342" y="222" key="new project wizard" timestamp="1587228737484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="222" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587228737484" />
+  </component>
+</project>
