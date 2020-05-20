@@ -1,4 +1,4 @@
-import Planes.experimentalPlane;
+import Planes.ExperimentalPlane;
 import models.MilitaryType;
 import Planes.MilitaryPlane;
 import Planes.PassengerPlane;
@@ -66,20 +66,20 @@ public class Airport {
 
     }
 
-    public List<experimentalPlane> getExperimentalPlanes() {
-        List<experimentalPlane> experimentalPlanes = new ArrayList<>();
+    public List<ExperimentalPlane> getExperimentalPlanes() {
+        List<ExperimentalPlane> ExperimentalPlanes = new ArrayList<>();
         for (Plane plane : planes) {
-            if (plane instanceof experimentalPlane) {
-                experimentalPlanes.add((experimentalPlane) plane);
+            if (plane instanceof ExperimentalPlane) {
+                ExperimentalPlanes.add((ExperimentalPlane) plane);
             }
         }
-        return experimentalPlanes;
+        return ExperimentalPlanes;
     }
 
     public Airport sortByMaxDistance() {
         Collections.sort(planes, new Comparator<Plane>() {
             public int compare(Plane o1, Plane o2) {
-                return o1.GetMaxFlightDistance() - o2.GetMaxFlightDistance();
+                return o1.getMaxFlightDistance() - o2.getMaxFlightDistance();
             }
         });
         return this;
